@@ -1,16 +1,32 @@
 # apod_app
 
-A new Flutter project.
+An app built in Flutter with 💙.
 
-## Getting Started
+It uses api provided by [Nasa APOD api](https://apod.nasa.gov/apod/astropix.html).
 
-This project is a starting point for a Flutter application.
+You can view the images. 
+Surf through dates and download the images. 
+If the Apod of the day is a video, then you can enjoy it. 
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Changing between modes were obtained by using shared preferences and provider package of Flutter.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Featuring Dark Mode**
+
+**For Images**
+
+[For Images](https://github.com/av153k/apod_app/blob/master/screenshots/Screenshot_2020-07-03-18-15-26-288_com.example.apod_app.jpg)
+
+**For Videos**
+
+[For Videos](https://github.com/av153k/apod_app/blob/master/screenshots/Screenshot_2020-07-03-18-16-33-655_com.example.apod_app.jpg)
+
+**Featuring Light Mode**
+
+[For Light Mode](https://github.com/av153k/apod_app/blob/master/screenshots/Screenshot_2020-07-03-18-16-45-800_com.example.apod_app.jpg)
+
+Thanks for Visiting 🤗
+
+
+
