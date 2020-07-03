@@ -16,17 +16,17 @@ Changing between modes were obtained by using shared preferences and provider pa
 
 **For Images**
 
-<img src = "https://github.com/av153k/apod_app/blob/master/screenshots/Screenshot_2020-07-03-18-15-26-288_com.example.apod_app.jpg" width=350/>
+<img src ="https://github.com/av153k/apod_app/blob/master/screenshots/Screenshot_2020-07-03-18-15-26-288_com.example.apod_app.jpg" width=300/>
 
 **For Videos**
 
-![For Videos](https://github.com/av153k/apod_app/blob/master/screenshots/Screenshot_2020-07-03-18-16-33-655_com.example.apod_app.jpg =x350)
+<img src="https://github.com/av153k/apod_app/blob/master/screenshots/Screenshot_2020-07-03-18-16-33-655_com.example.apod_app.jpg" width=300/>
 
 **Featuring Light Mode**
 
-![For Light Mode](https://github.com/av153k/apod_app/blob/master/screenshots/Screenshot_2020-07-03-18-16-45-800_com.example.apod_app.jpg)
+<img src="https://github.com/av153k/apod_app/blob/master/screenshots/Screenshot_2020-07-03-18-16-45-800_com.example.apod_app.jpg" width=300/>
 
-Thanks for Visiting 🤗
+**Thanks for Visiting** 🤗
 
 
 
